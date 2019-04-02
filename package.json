@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "scope": "@linear",
+  "devDependencies": {
+    "lerna": "^2.11.0"
+  }
+}
