@@ -1,8 +1,8 @@
 {
   "name": "@linear/ajax",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "一个用于发送ajax请求的库。底层来自于axios，扩展了错误处理，过滤器等功能",
-  "target":"client",
+  "target": "client",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
